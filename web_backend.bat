@@ -1,0 +1,1 @@
+start C:\Users\developer7\Downloads\djangoProject.zip_pass_123\djangoProject\djangoProject\venv\Scripts\python.exe C:\Users\developer7\Downloads\djangoProject.zip_pass_123\djangoProject\djangoProject\manage.py runserver localhost:8000
